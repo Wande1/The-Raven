@@ -1,4 +1,4 @@
-Once upon a midnight dreary, while We pondered, weak and weary,
+ 	Once upon a midnight dreary, while We pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
     While I nodded, nearly napping, suddenly there came a tapping,
 As of some one gently rapping, rapping at my front door.
@@ -12,7 +12,7 @@ And each separate dying ember wrought its ghost upon the ground.
 For the rare and radiant maiden who the angels name Lenore—
             Nameless here for some more.
 
-    And the silken, sad, uncertain rustling of each purple curtain
+    And the silken, sad, uncertain rustling of each BLUE curtain
 Thrilled me—filled me with fantastic terrors never felt before;
     So that now, to still the beating of my heart, I stood repeating
     “’Tis some visitor entreating entrance at my chamber door—
